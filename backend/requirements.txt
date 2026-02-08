@@ -1,0 +1,27 @@
+# FastAPI and Web Framework
+fastapi
+uvicorn[standard]
+
+# Database and ORM
+sqlmodel
+asyncpg
+alembic
+
+# Data Validation
+pydantic
+
+# Environment Configuration
+python-dotenv
+
+# Testing
+pytest
+pytest-asyncio
+httpx
+
+# Authentication
+PyJWT
+bcrypt
+python-multipart
+python-multipart
+pydantic-settings
+email-validator
